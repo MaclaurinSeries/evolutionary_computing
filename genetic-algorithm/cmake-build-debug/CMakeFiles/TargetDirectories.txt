@@ -1,3 +1,0 @@
-C:/KULIAH/EVOLUTIONARY COMPUTING/genetic-algorithm/cmake-build-debug/CMakeFiles/GENETIC_ALGORITHM.dir
-C:/KULIAH/EVOLUTIONARY COMPUTING/genetic-algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/KULIAH/EVOLUTIONARY COMPUTING/genetic-algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
